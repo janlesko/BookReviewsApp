@@ -1,0 +1,1 @@
+simple app for storing book information and outputting reviews built in rails
